@@ -1,0 +1,19 @@
+
+### 配置环境
+python 3.6.8
+opencv-python == 4.4.0.46
+numpy == 1.19.4
+pillow == 8.0.1
+scikit-image==0.15.0
+pandas==1.1.4
+
+dlib == 19.7.0  (dlib无法使用pip安装，见dlib安装说明)
+
+
+### 代码运行
+
+tkinter_UI.py   tkinter界面，直接运行即可
+
+
+
+
